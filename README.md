@@ -62,8 +62,8 @@ tr {
 
 ### Continued development
 
-Using Flexbox to manage things better in the design.
-Looking to apply grid layout to practice in the upcoming designs.
+- Using Flexbox to manage things better in the design.
+- Looking to apply grid layout to practice in the upcoming designs.
 
 ### Useful resources
 
