@@ -62,8 +62,6 @@ tr {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 Using Flexbox to manage things better in the design.
 Looking to apply grid layout to practice in the upcoming designs.
 
