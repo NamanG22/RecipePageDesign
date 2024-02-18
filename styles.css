@@ -9,14 +9,15 @@ body{
     font-family: "Outfit", sans-serif;
     font-weight: 400;
     color: hsl(30, 10%, 34%);
+    height: max(1640px, 100vh);
+    display: grid;
+    place-content: center;
 }
 .outer{
     background-color: white;
     padding: 30px;
     width: max-content;
     margin: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
     border-radius: 18px;
 }
 .prep{
